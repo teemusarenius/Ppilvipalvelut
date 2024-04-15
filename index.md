@@ -1,6 +1,6 @@
 ## Tervetuloa sivustolleni!
 ### Tältä löytyvät tehtäväpalautukset:
-* [viikko 1]
+* [viikko 1](vko2.md)
 
 * [viikko 2]
 
