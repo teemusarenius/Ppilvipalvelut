@@ -1,8 +1,8 @@
 ## Tervetuloa sivustolleni!
 ### Tältä löytyvät tehtäväpalautukset:
-* [viikko 1](vko1.md)
+* [viikko 1](vko1.html)
 
-* [viikko 2]
+* [viikko 2](vko2.md)
 
 * [viikko 3]
 
