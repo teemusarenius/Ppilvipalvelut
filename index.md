@@ -1,11 +1,15 @@
-GitHub Pages sivuni, jossa on on Jekyll -teema.
+## Tervetuloa sivustolleni!
+### Tältä löytyvät tehtäväpalautukset:
+* [viikko 1]
 
-Täältä löytyvät tehtäväpalautukset:
+* [viikko 2]
 
-Viikko 1
-Viikko 2
-Viikko 3
-Viikko 4
-Viikko 5
-Viikko 6
-Harjoitustyö
+* [viikko 3]
+
+* viikko 4
+
+* viikko 5
+
+* viikko 6
+
+* Harjoitustyö
