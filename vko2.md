@@ -1,1 +1,5 @@
+2.3 Lyhyt kirjoitus
 
+Jekyll-sivuston automatisointi GitHub Actionsin avulla voi tehostaa kehitysprosessia huomattavasti. Voit esimerkiksi määrittää Actionsin rakentamaan ja julkaisemaan sivuston aina kun pushaat uusia muutoksia repositoryysi. Tämä varmistaa, että sivusto päivittyy automaattisesti ja on aina ajantasainen.
+
+Web-sovelluksen kehitys ja julkaisu tehostuvat merkittävästi, kun käytössä on tehokas CI/CD-putki. Versionhallintaan soveltuvat mainiosti Git ja sen alustat kuten GitHub tai GitLab. Testausvaiheessa Jest ja pytest tarjoavat luotettavat automaattitestausmahdollisuudet JavaScriptille ja Pythonille. Containerisaatiossa Docker yhdistää sovellukset ja niiden riippuvuudet yhtenäiseen pakettiin, kun taas Kubernetes tai Docker Compose hallitsevat orkestrointia. Lopuksi, Jenkins, CircleCI ja GitHub Actions ovat tehokkaita työkaluja, jotka automatisoivat testauksen, laadunvalvonnan ja julkaisun, varmistaen web-sovelluksen jatkuvan luotettavuuden, turvallisuuden ja päivitysten ajanmukaisuuden.
