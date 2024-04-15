@@ -1,4 +1,4 @@
-2.3 Lyhyt kirjoitus
+## 2.3 Lyhyt kirjoitus
 
 Jekyll-sivuston automatisointi GitHub Actionsin avulla voi tehostaa kehitysprosessia huomattavasti. Voit esimerkiksi määrittää Actionsin rakentamaan ja julkaisemaan sivuston aina kun pushaat uusia muutoksia repositoryysi. Tämä varmistaa, että sivusto päivittyy automaattisesti ja on aina ajantasainen.
 
